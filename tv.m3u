@@ -1502,41 +1502,6 @@ http://live.iill.top/huya.php?id=23734256
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/埋堆堆.png" group-title="•埋堆堆",埋堆堆 𝟚𝟞
 http://live.iill.top/huya.php?id=23749083
 
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/logos/TVB-.png",HK| TVB1
-http://mag.trexlive.me:80/Michael88/Michael88/153396
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/logos/TVB-.png",HK| TVB1（备）
-http://mag.trexlive.me:80/Michael88/Michael88/153401
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/logos/TVB-.png",HK| TVB DRAMA
-http://mag.trexlive.me:80/Michael88/Michael88/153400
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/logos/TVB-.png",HK| TVB无线新闻
-http://mag.trexlive.me:80/Michael88/Michael88/153399
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/logos/TVB-.png",HK| TVBe
-http://mag.trexlive.me:80/Michael88/Michael88/153398
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/logos/TVB-.png",HK| TVB千禧经典台
-http://mag.trexlive.me:80/Michael88/Michael88/153503
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/logos/TVB-.png",HK| TVB娱乐新闻
-http://mag.trexlive.me:80/Michael88/Michael88/153504
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/logos/TVB-.png",HK| TVB丽翡翠台
-http://mag.trexlive.me:80/Michael88/Michael88/153505
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/logos/TVB-.png",HK| TVB星河台
-http://mag.trexlive.me:80/Michael88/Michael88/153506
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/log",HK| NOW SPORTS 1 HD
-http://mag.trexlive.me:80/Michael88/Michael88/554949
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/log",HK| NOW SPORTS 2 HD
-http://mag.trexlive.me:80/Michael88/Michael88/554948
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/log",HK| NOW SPORTS 3 HD
-http://mag.trexlive.me:80/Michael88/Michael88/554947
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/log",HK| NOW SPORTS 4 HD
-http://mag.trexlive.me:80/Michael88/Michael88/554946
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/log",HK| NOW SPORTS 5 HD
-http://mag.trexlive.me:80/Michael88/Michael88/554945
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/log",HK| NOW SPORTS 6 HD
-http://mag.trexlive.me:80/Michael88/Michael88/554944
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/log",HK| NOW SPORTS 7 HD
-http://mag.trexlive.me:80/Michael88/Michael88/554943
-#EXTINF:-1 group-title="翻墙看HK" tvg-logo="http://logo.protv.cc/picons/log",HK| NOW PREMIER SPORTS 1 HD
-http://mag.trexlive.me:80/Michael88/Michael88/554953
-
 #EXTINF:-1 group-title="广东频道测试" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",广东频道体育超清9
 http://msa.mxsa.cc:4000/udp/239.77.0.168:5146
 #EXTINF:-1 group-title="广东频道测试" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",广东频道珠江高清9
