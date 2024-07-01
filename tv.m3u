@@ -4,6 +4,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 
+
 #EXTINF:-1 group-title="安博香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVB翡翠
 https://z02.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 #EXTINF:-1 group-title="安博香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVB翡翠
@@ -90,6 +91,44 @@ https://z02.ubtvfans.com/live/rx4/1289/6d27646c74e37586febfa8be982bf1be/index.m3
 https://z02.ubtvfans.com/live/rx4/1079/9371abf6b38ee5057462d8573a71736d/index.m3u8
 #EXTINF:-1 group-title="安博香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVB經典
 https://z02.ubtvfans.com/live/rx4/1083/067958a5c51d052f7bcc3f3bd1a3a8ff/index.m3u8
+
+
+
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVB Magic
+http://tvlive.serv00.net/Smartv.php?id=Tvbmagic
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVB 华丽翡翠Jade
+http://tvlive.serv00.net/Smartv.php?id=Tvbjade
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVB 娱乐新闻
+http://tvlive.serv00.net/Smartv.php?id=Tvbentertainment
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVB 千禧经典台
+http://tvlive.serv00.net/Smartv.php?id=Tvbclassic
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVBJ2
+http://tvlive.serv00.net/Smartv.php?id=j2_twn
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVB星河
+http://tvlive.serv00.net/Smartv.php?id=Xinhe
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVB珍珠
+http://tvlive.serv00.net/Smartv.php?id=pearl_twn
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVB翡翠
+http://tvlive.serv00.net/Smartv.php?id=jade_twn
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",RHK31
+http://tvlive.serv00.net/Smartv.php?id=rhk31_twn
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",RHK32
+http://tvlive.serv00.net/Smartv.php?id=rhk32_twn
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",VIUTV1
+http://tvlive.serv00.net/Smartv.php?id=viu1_twn
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",VIUTV6
+http://tvlive.serv00.net/Smartv.php?id=viusix_twn
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Viu TV69
+http://tvlive.serv00.net/Smartv.php?id=viutv69_hkdavid
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",凤凰香港
+http://tvlive.serv00.net/Smartv.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",凤凰香港
+http://tvlive.serv00.net/Smartv.php?id=tvbcaijing_twn
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",凤凰卫视
+http://tvlive.serv00.net/Smartv.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="斯玛特香港" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",凤凰资讯
+http://tvlive.serv00.net/Smartv.php?id=phoenixinfo_hd
+
 
 #EXTINF:-1 group-title="安博大陸" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CGTN English
 https://z02.ubtvfans.com/live/rx3/2362//index.m3u8
@@ -1291,6 +1330,903 @@ https://z02.ubtvfans.com/live/rx4/1249/53e336806040332d201775d186a96f90/index.m3
 https://z02.ubtvfans.com/live/rx4/1248/05a4509c5daf39f946dc2a3796f9aab1/index.m3u8
 #EXTINF:-1 group-title="安博加拿大" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Crave 4
 https://z02.ubtvfans.com/live/rx4/1272/7b8eb211a915b519355836f176b8e543/index.m3u8
+
+
+
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-1综合 HD
+http://tvlive.serv00.net/Smartv.php?id=cctv1
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-2财经
+http://tvlive.serv00.net/Smartv.php?id=cctv2
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-3综艺 HD
+http://tvlive.serv00.net/Smartv.php?id=cctv3
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-4中文国际
+http://tvlive.serv00.net/Smartv.php?id=cctv4
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV4新闻台
+http://tvlive.serv00.net/Smartv.php?id=Cctv4
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-5 体育频道
+http://tvlive.serv00.net/Smartv.php?id=cctv5
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-5+ 体育赛事 HD
+http://tvlive.serv00.net/Smartv.php?id=cctv5plus
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-7军事农业
+http://tvlive.serv00.net/Smartv.php?id=cctv7
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-8电视剧 HD
+http://tvlive.serv00.net/Smartv.php?id=cctv8hd
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-9记录 HD
+http://tvlive.serv00.net/Smartv.php?id=cctv9hd
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-10科教 HD
+http://tvlive.serv00.net/Smartv.php?id=cctv10hd
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-11戏曲
+http://tvlive.serv00.net/Smartv.php?id=cctv11
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-12社会与法
+http://tvlive.serv00.net/Smartv.php?id=cctv12
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-13新闻频道
+http://tvlive.serv00.net/Smartv.php?id=cctv13
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-14 少儿
+http://tvlive.serv00.net/Smartv.php?id=cctv14
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-15 音乐
+http://tvlive.serv00.net/Smartv.php?id=cctv15
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-16
+http://tvlive.serv00.net/Smartv.php?id=cctv6
+#EXTINF:-1 group-title="斯玛特央视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CCTV-17
+http://tvlive.serv00.net/Smartv.php?id=cctv17
+#EXTINF:-1 group-title="斯玛特卫视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",湖南卫视
+http://tvlive.serv00.net/Smartv.php?id=
+#EXTINF:-1 group-title="斯玛特卫视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",浙江卫视
+http://tvlive.serv00.net/Smartv.php?id=Zhejiang
+#EXTINF:-1 group-title="斯玛特卫视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",江苏卫视
+http://tvlive.serv00.net/Smartv.php?id=Jiangsu
+#EXTINF:-1 group-title="斯玛特卫视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",深圳卫视
+http://tvlive.serv00.net/Smartv.php?id=shenzhen
+#EXTINF:-1 group-title="斯玛特卫视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",福建东南卫视
+http://tvlive.serv00.net/Smartv.php?id=fujian
+#EXTINF:-1 group-title="斯玛特卫视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",大湾区卫视
+http://tvlive.serv00.net/Smartv.php?id=nanfang_twn
+#EXTINF:-1 group-title="斯玛特卫视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",广东卫视
+http://tvlive.serv00.net/Smartv.php?id=guangdongweishi_twn
+#EXTINF:-1 group-title="斯玛特卫视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",北京卫视
+http://tvlive.serv00.net/Smartv.php?id=beijing
+#EXTINF:-1 group-title="斯玛特卫视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",珠江台
+http://tvlive.serv00.net/Smartv.php?id=zhujiang
+#EXTINF:-1 group-title="斯玛特卫视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",广西卫视
+http://tvlive.serv00.net/Smartv.php?id=guangxi
+#EXTINF:-1 group-title="斯玛特卫视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",湖北卫视
+http://tvlive.serv00.net/Smartv.php?id=hubei
+#EXTINF:-1 group-title="斯玛特卫视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",四川卫视
+http://tvlive.serv00.net/Smartv.php?id=sichuan_twn
+#EXTINF:-1 group-title="斯玛特卫视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",凤凰卫视
+http://tvlive.serv00.net/Smartv.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="斯玛特卫视" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",东方卫视
+http://tvlive.serv00.net/Smartv.php?id=dongfangweishi_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",公视
+http://tvlive.serv00.net/Smartv.php?id=ctv_taiwan
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",台视HD
+http://tvlive.serv00.net/Smartv.php?id=ttv_taiwan
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",中视HD
+http://tvlive.serv00.net/Smartv.php?id=zhongshihd_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",民视HD
+http://tvlive.serv00.net/Smartv.php?id=ftvhd_taiwan
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",华视HD
+http://tvlive.serv00.net/Smartv.php?id=ctshd_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",大爱2台
+http://tvlive.serv00.net/Smartv.php?id=catchplay_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVBS Asia
+http://tvlive.serv00.net/Smartv.php?id=Tvbasia
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVBS HD
+http://tvlive.serv00.net/Smartv.php?id=tvbs
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVBS新闻
+http://tvlive.serv00.net/Smartv.php?id=tvbs_n
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVBS欢乐
+http://tvlive.serv00.net/Smartv.php?id=tvbshuanle_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",年代新闻
+http://tvlive.serv00.net/Smartv.php?id=niandainews_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",中天新闻HD
+http://tvlive.serv00.net/Smartv.php?id=ctinews
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",中天娱乐
+http://tvlive.serv00.net/Smartv.php?id=ctient
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",中天综合
+http://tvlive.serv00.net/Smartv.php?id=ctizhonghe
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",中天亚洲
+http://tvlive.serv00.net/Smartv.php?id=ctiasia_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",台视新闻
+http://tvlive.serv00.net/Smartv.php?id=ttvnews_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",台视综合
+http://tvlive.serv00.net/Smartv.php?id=ttvzhonghe_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",中视经典
+http://http://tvlive.serv00.net/Smartv.php?id=zhongshi_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",中视新闻
+http://tvlive.serv00.net/Smartv.php?id=zhongshinews_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",非凡新闻
+http://http://tvlive.serv00.net/Smartv.php?id=feifannews_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",民视新闻
+http://tvlive.serv00.net/Smartv.php?id=ftvnew_taiwan
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",民视台湾
+http://tvlive.serv00.net/Smartv.php?id=ftvtaiwan_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",八大第一
+http://tvlive.serv00.net/Smartv.php?id=badafirst
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",八大综合
+http://tvlive.serv00.net/Smartv.php?id=badazhonghe
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",八大戏剧
+http://tvlive.serv00.net/Smartv.php?id=badadrama
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",八大娱乐
+http://tvlive.serv00.net/Smartv.php?id=badaentertain
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",三立台湾
+http://tvlive.serv00.net/Smartv.php?id=sanlitaiwan
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",三立综合
+http://tvlive.serv00.net/Smartv.php?id=sanlizhonghe
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",三立戏剧
+http://tvlive.serv00.net/Smartv.php?id=sanlixiju_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",三立新闻
+http://tvlive.serv00.net/Smartv.php?id=inews_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",东森综合
+http://tvlive.serv00.net/Smartv.php?id=ettvzhonghe
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",东森超视
+http://tvlive.serv00.net/Smartv.php?id=ettvsuper
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",东森戏剧
+http://tvlive.serv00.net/Smartv.php?id=ettvdrama
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",东森财经
+http://tvlive.serv00.net/Smartv.php?id=ettvcaijing_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",东森电影
+http://tvlive.serv00.net/Smartv.php?id=ettvmovie
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",东森洋片
+http://tvlive.serv00.net/Smartv.php?id=ettvwestern
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",东森幼幼
+http://tvlive.serv00.net/Smartv.php?id=yoyo_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",龙华洋片
+http://tvlive.serv00.net/Smartv.php?id=lunghuawestern_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",龙详时代
+http://tvlive.serv00.net/Smartv.php?id=lungxiangtime_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",龙华戏剧
+http://tvlive.serv00.net/Smartv.php?id=lunghuaxiju_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",龙华偶像
+http://tvlive.serv00.net/Smartv.php?id=lunghuaidol_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",龙华卡通
+http://tvlive.serv00.net/Smartv.php?id=jingtiancartoon_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",靖天卡通
+http://tvlive.serv00.net/Smartv.php?id=jingtiancartoon_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",靖天国际
+http://tvlive.serv00.net/Smartv.php?id=jingtianintl_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",探索亚洲
+http://tvlive.serv00.net/Smartv.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",卫视中文
+http://tvlive.serv00.net/Smartv.php?id=weishichinese_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",卫视电影
+http://tvlive.serv00.net/Smartv.php?id=weishimovie_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",美亚电影
+http://tvlive.serv00.net/Smartv.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",星卫电影
+http://tvlive.serv00.net/Smartv.php?id=xingwei_movie
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",旅游生活
+http://tvlive.serv00.net/Smartv.php?id=tlc_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",亚洲旅游
+http://tvlive.serv00.net/Smartv.php?id=asiatravel_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",亚洲美食
+http://tvlive.serv00.net/Smartv.php?id=afc_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",美食星球
+http://tvlive.serv00.net/Smartv.php?id=foodplanet_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",动物星球
+http://tvlive.serv00.net/Smartv.php?id=AnimalPlanet
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",动物星球1
+http://tvlive.serv00.net/Smartv.php?id=animalplanet_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",博斯网球
+http://tvlive.serv00.net/Smartv.php?id=bositennis_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",博斯运动1
+http://tvlive.serv00.net/Smartv.php?id=bosisport1_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",博斯高球2
+http://tvlive.serv00.net/Smartv.php?id=bosigolf2_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",博斯运动2
+http://tvlive.serv00.net/Smartv.php?id=bosisport2_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",国家地理
+http://tvlive.serv00.net/Smartv.php?id=natgeohd_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",野生动物
+http://tvlive.serv00.net/Smartv.php?id=natgeowild_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",地理野生
+http://tvlive.serv00.net/Smartv.php?id=natgeowildtamil_raj
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",EYETV戏剧
+http://tvlive.serv00.net/Smartv.php?id=eyetvxiju_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",EYETV旅游
+http://tvlive.serv00.net/Smartv.php?id=?id=eyetvtravel_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",好莱坞电影
+http://tvlive.serv00.net/Smartv.php?id=hollywoodmovies_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",爱尔达体育2
+http://tvlive.serv00.net/Smartv.php?id=eltasport2_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",爱尔达体育3
+http://tvlive.serv00.net/Smartv.php?id=eltasport3_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",GOODTV真理
+http://tvlive.serv00.net/Smartv.php?id=good2_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Natgeo_HD
+http://tvlive.serv00.net/Smartv.php?id=natgeohd_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NatGeo_Wild HD
+http://tvlive.serv00.net/Smartv.php?id=natgeowild_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Animal_Planet
+http://tvlive.serv00.net/Smartv.php?id=animalplanet_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Discovery Asia
+http://tvlive.serv00.net/Smartv.php?id=discoverytwn_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CI
+http://tvlive.serv00.net/Smartv.php?id=ci_twn
+#EXTINF:-1 group-title="斯玛特台湾" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Asia Travel
+http://tvlive.serv00.net/Smartv.php?id=asiatravel_twn
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Discovery HD
+http://tvlive.serv00.net/Smartv.php?id=discoveryhd_twn
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NatGeo HD
+http://tvlive.serv00.net/Smartv.php?id=Natgeo
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Fashion TV
+http://tvlive.serv00.net/Smartv.php?id=fashiontv_twn
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",History
+http://tvlive.serv00.net/Smartv.php?id=History
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BBC Earth HD
+http://tvlive.serv00.net/Smartv.php?id=bbcearth_twn
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BBC Earth Lifestyle
+http://tvlive.serv00.net/Smartv.php?id=bbclifestyle_twn
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",MTV Live
+http://tvlive.serv00.net/Smartv.php?id=mtvhd_twn
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NatGeo Wild HD
+http://tvlive.serv00.net/Smartv.php?id=Natgeowild
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Animal Planet (Eng)
+http://tvlive.serv00.net/Smartv.php?id=AnimalPlanet
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TLC
+http://tvlive.serv00.net/Smartv.php?id=Tlc
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Foodnetwork Hd
+http://tvlive.serv00.net/Smartv.php?id=Foodnetwork_mega
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Sun TV HD
+http://tvlive.serv00.net/Smartv.php?id=Suntv
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Star Vijay
+http://tvlive.serv00.net/Smartv.php?id=Starvijay
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Colors Tamil
+http://tvlive.serv00.net/Smartv.php?id=Colorstam_mega
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Sun Music
+http://tvlive.serv00.net/Smartv.php?id=Sunmusic
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Astro Sunlife
+http://tvlive.serv00.net/Smartv.php?id=Sunlife
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Astro Vaanavil
+http://tvlive.serv00.net/Smartv.php?id=Vaanavil
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Zee Tamil
+http://tvlive.serv00.net/Smartv.php?id=Zeetamil
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Zee Business
+http://tvlive.serv00.net/Smartv.php?id=Zeebusiness
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",News 18 Tamil
+http://tvlive.serv00.net/Smartv.php?id=news18tamil_raj
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Adithya
+http://tvlive.serv00.net/Smartv.php?id=Adithya
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Thanthi TV
+http://tvlive.serv00.net/Smartv.php?id=thanthitv
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Makkal TV
+http://tvlive.serv00.net/Smartv.php?id=Makkaltv
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Zee Action
+http://tvlive.serv00.net/Smartv.php?id=Zeeaction
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",KTV UK
+http://tvlive.serv00.net/Smartv.php?id=ktvuk_tamil
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Zee TV HD
+http://tvlive.serv00.net/Smartv.php?id=Zeetvhd
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Cinema HD
+http://tvlive.serv00.net/Smartv.php?id=Zeecinemahd
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Color HD
+http://tvlive.serv00.net/Smartv.php?id=Colorhd
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Picture HD
+http://tvlive.serv00.net/Smartv.php?id=Npicture
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Asianet
+http://tvlive.serv00.net/Smartv.php?id=asianet_raj
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Asianet News
+http://tvlive.serv00.net/Smartv.php?id=asianetnews_raj
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Times Now
+http://tvlive.serv00.net/Smartv.php?id=timesnow_mega
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BBC Earth Tamil
+http://tvlive.serv00.net/Smartv.php?id=bbcearthtam_raj
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",DiscoveryWorld Tamil
+http://tvlive.serv00.net/Smartv.php?id=discoveryworldtam_raj
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",History Tamil
+http://tvlive.serv00.net/Smartv.php?id=historytam_raj
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NatGeo Tamil
+http://tvlive.serv00.net/Smartv.php?id=natgeotamil_raj
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Natgeo Wild Tamil
+http://tvlive.serv00.net/Smartv.php?id=natgeowildtamil_raj
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Cartoon Network Tamil
+http://tvlive.serv00.net/Smartv.php?id=cntamil_raj
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Discovery Tamil
+http://tvlive.serv00.net/Smartv.php?id=discoverytamil_raj
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Sony Yay Tamil
+http://tvlive.serv00.net/Smartv.php?id=sonyyaytam_raj
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Sun TV India
+http://tvlive.serv00.net/Smartv.php?id=suntv_raj
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Starmaa HD
+http://tvlive.serv00.net/Smartv.php?id=starmaa_raj
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Starmaa Movies HD
+http://tvlive.serv00.net/Smartv.php?id=starmaamovies_raj
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Bollyone
+http://tvlive.serv00.net/Smartv.php?id=Bollyone
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Sony Pix HD
+http://tvlive.serv00.net/Smartv.php?id=sonypix_mega
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVRI National
+http://tvlive.serv00.net/Smartv.php?id=TVRI
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",RCTI
+http://tvlive.serv00.net/Smartv.php?id=Rcti
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TV
+http://tvlive.serv00.net/Smartv.php?id=Kompass
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Berita Satu
+http://tvlive.serv00.net/Smartv.php?id=BeritaSatu_eko
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",IndosiarHD
+http://tvlive.serv00.net/Smartv.php?id=Indosiar
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",AnTV
+http://tvlive.serv00.net/Smartv.php?id=Antv
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",MNC TV
+http://tvlive.serv00.net/Smartv.php?id=Mnctv
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Trans 7
+http://tvlive.serv00.net/Smartv.php?id=Trans7_eko
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Transtv
+http://tvlive.serv00.net/Smartv.php?id=Transtv
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",JTV
+http://tvlive.serv00.net/Smartv.php?id=JTV_eko
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TV
+http://tvlive.serv00.net/Smartv.php?id=metrotv_eko
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Cinemax
+http://tvlive.serv00.net/Smartv.php?id=Cinemax
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",SCTV
+http://tvlive.serv00.net/Smartv.php?id=SCTV
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Tvone
+http://tvlive.serv00.net/Smartv.php?id=Tvone
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TVMU
+http://tvlive.serv00.net/Smartv.php?id=TVMU_eko
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",GTV
+http://tvlive.serv00.net/Smartv.php?id=Gtv
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",RTV
+http://tvlive.serv00.net/Smartv.php?id=Rtv
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Jak TV
+http://tvlive.serv00.net/Smartv.php?id=JakTV
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",iNews TV
+http://tvlive.serv00.net/Smartv.php?id=Inewstv
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Daai TV
+http://tvlive.serv00.net/Smartv.php?id=DaaiTV
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Animax
+http://tvlive.serv00.net/Smartv.php?id=Animax
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",EWTN
+http://tvlive.serv00.net/Smartv.php?id=Ewtn
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Tawaf TV
+http://tvlive.serv00.net/Smartv.php?id=TawafTV
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Muslim TV
+http://tvlive.serv00.net/Smartv.php?id=MuslimTV
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Music TV
+http://tvlive.serv00.net/Smartv.php?id=MusicTV
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Lifestyle&Fashion
+http://tvlive.serv00.net/Smartv.php?id=Lifestyle
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Entertain
+http://tvlive.serv00.net/Smartv.php?id=Entertain
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Hits
+http://tvlive.serv00.net/Smartv.php?id=Hits
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TV
+http://tvlive.serv00.net/Smartv.php?id=WarnerTV
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",SCM
+http://tvlive.serv00.net/Smartv.php?id=Weishimovie
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Thrill
+http://tvlive.serv00.net/Smartv.php?id=Thrill
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Sports
+http://tvlive.serv00.net/Smartv.php?id=Fs
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",HD
+http://tvlive.serv00.net/Smartv.php?id=Bein2hd
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",One
+http://tvlive.serv00.net/Smartv.php?id=One_mega
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",HitsMovie
+http://tvlive.serv00.net/Smartv.php?id=Hitsmovie
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",tvN Movie
+http://tvlive.serv00.net/Smartv.php?id=Tvnmovie
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Celestial Movies HD
+http://tvlive.serv00.net/Smartv.php?id=Celestialindo
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Rock Actions
+http://tvlive.serv00.net/Smartv.php?id=Rockaction
+#EXTINF:-1 group-title="斯玛特国外" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Rock Entertainment
+http://tvlive.serv00.net/Smartv.php?id=Rockentertain
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NHK-総合-2
+http://tvlive.serv00.net/Smartv.php?id=nhkg_japan
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NHK-E
+http://tvlive.serv00.net/Smartv.php?id=nhke_japan
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Asahi TV
+http://tvlive.serv00.net/Smartv.php?id=asahitv_japan
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",JET 綜合
+http://tvlive.serv00.net/Smartv.php?id=jettv_japan
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",テレビ東京
+http://tvlive.serv00.net/Smartv.php?id=tokyotv_japan
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TOKYOMX
+http://tvlive.serv00.net/Smartv.php?id=tokyomx_japan
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NHKBS1
+http://tvlive.serv00.net/Smartv.php?id=nhkbs1_japan
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NHKBSプレミアPremium
+http://tvlive.serv00.net/Smartv.php?id=nhkpremium_japan
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BSジャパン
+http://tvlive.serv00.net/Smartv.php?id=bs181_japan
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BSフジ BS Fuji
+http://tvlive.serv00.net/Smartv.php?id=bsfuji_japan
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CNA Japan
+http://tvlive.serv00.net/Smartv.php?id=cna_japan
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BS-TBS
+http://tvlive.serv00.net/Smartv.php?id=bstbs_japan
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NHK Oaska
+http://tvlive.serv00.net/Smartv.php?id=nhkosaka_japan
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Baby TV Eng
+http://tvlive.serv00.net/Smartv.php?id=Babytv
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Boomerang
+http://tvlive.serv00.net/Smartv.php?id=Boomerang
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Disney Taiwan
+http://tvlive.serv00.net/Smartv.php?id=disneytwn_twn
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Momo TV
+http://tvlive.serv00.net/Smartv.php?id=momo1_twn
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Animax
+http://tvlive.serv00.net/Smartv.php?id=Animax
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Boomerang Taiwan
+http://tvlive.serv00.net/Smartv.php?id=boomerang_twn
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Baby TV
+http://tvlive.serv00.net/Smartv.php?id=babytv_twn
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",MiaoMi
+http://tvlive.serv00.net/Smartv.php?id=MiaoMi
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Cartoon Network
+http://tvlive.serv00.net/Smartv.php?id=Cn
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Nickelodeon
+http://tvlive.serv00.net/Smartv.php?id=Nickelodeon
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Nick Jr
+http://tvlive.serv00.net/Smartv.php?id=Nickjr
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Arirang HD
+http://tvlive.serv00.net/Smartv.php?id=arirang_korea
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Yonhap News
+http://tvlive.serv00.net/Smartv.php?id=yonhapnews_korea
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CBS
+http://tvlive.serv00.net/Smartv.php?id=cbs_korea
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",EBS 1
+http://tvlive.serv00.net/Smartv.php?id=ebs1_korea
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",EBS2
+http://tvlive.serv00.net/Smartv.php?id=ebs2_korea
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",EBS Plus2
+http://tvlive.serv00.net/Smartv.php?id=ebsplus2_korea
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",YTN
+http://tvlive.serv00.net/Smartv.php?id=ytn_korea
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",KBS World 24
+http://tvlive.serv00.net/Smartv.php?id=kbsworld24_korea
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",YTN Science
+http://tvlive.serv00.net/Smartv.php?id=ytnscience_korea
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",YTN Korean
+http://tvlive.serv00.net/Smartv.php?id=ytnkorean_korea
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Apps TV
+http://tvlive.serv00.net/Smartv.php?id=appongoogle_korea
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",All the Kpop
+http://tvlive.serv00.net/Smartv.php?id=allthekpop_korea
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",J the Kpop
+http://tvlive.serv00.net/Smartv.php?id=jthekpop_korea
+#EXTINF:-1 group-title="斯玛特日鬼" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",EBS Kids
+http://tvlive.serv00.net/Smartv.php?id=ebskids_korea
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TV1
+http://tvlive.serv00.net/Smartv.php?id=TV1
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TV2
+http://tvlive.serv00.net/Smartv.php?id=TV2
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TV3
+http://tvlive.serv00.net/Smartv.php?id=TV3
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TV3 backup
+http://tvlive.serv00.net/Smartv.php?id=tv3_twn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NTV7
+http://tvlive.serv00.net/Smartv.php?id=NTV7
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TV8
+http://tvlive.serv00.net/Smartv.php?id=TV8
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TV9
+http://tvlive.serv00.net/Smartv.php?id=TV9
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Warna
+http://tvlive.serv00.net/Smartv.php?id=Warna-O
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Ria
+http://tvlive.serv00.net/Smartv.php?id=Ria-0
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Ria backup
+http://tvlive.serv00.net/Smartv.php?id=Ri
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Al-Hijrah
+http://tvlive.serv00.net/Smartv.php?id=Alhijrah
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Al-Hijrah backup
+http://tvlive.serv00.net/Smartv.php?id=Alhijrah_backup
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Awani
+http://tvlive.serv00.net/Smartv.php?id=Awani
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Bernama
+http://tvlive.serv00.net/Smartv.php?id=Bernama
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Prima
+http://tvlive.serv00.net/Smartv.php?id=Prima-0
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",backup
+http://tvlive.serv00.net/Smartv.php?id=Prima_xue
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Ceria
+http://tvlive.serv00.net/Smartv.php?id=Ceria
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Mecca Live HD
+http://tvlive.serv00.net/Smartv.php?id=quran_mido
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Madinah HD
+http://tvlive.serv00.net/Smartv.php?id=sunnah_mido
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Oasis
+http://tvlive.serv00.net/Smartv.php?id=Oasis
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",HGTV
+http://tvlive.serv00.net/Smartv.php?id=HGTV
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Hits HD
+http://tvlive.serv00.net/Smartv.php?id=Hbohits
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",HBO HD
+http://tvlive.serv00.net/Smartv.php?id=Hbo
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",HBO Signature
+http://tvlive.serv00.net/Smartv.php?id=Hbosignature
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NatGeo Wild HD
+http://tvlive.serv00.net/Smartv.php?id=Natgeowild
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Cartoon Network
+http://tvlive.serv00.net/Smartv.php?id=Cn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Nickelodeon
+http://tvlive.serv00.net/Smartv.php?id=Nickelodeon
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Dreamworks
+http://tvlive.serv00.net/Smartv.php?id=Dreamworks
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Citra
+http://tvlive.serv00.net/Smartv.php?id=Citra_xue
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Sensasi
+http://tvlive.serv00.net/Smartv.php?id=Sensasi
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Aura
+http://tvlive.serv00.net/Smartv.php?id=Aura
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Rania
+http://tvlive.serv00.net/Smartv.php?id=Rani
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Boo
+http://tvlive.serv00.net/Smartv.php?id=Boo
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Awesome TV
+http://tvlive.serv00.net/Smartv.php?id=Dsangat
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Sony HD
+http://tvlive.serv00.net/Smartv.php?id=SetOne
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",KBS World
+http://tvlive.serv00.net/Smartv.php?id=KBS
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TvN
+http://tvlive.serv00.net/Smartv.php?id=TVN
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Astro Premier
+http://tvlive.serv00.net/Smartv.php?id=Astropremier
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",AEC
+http://tvlive.serv00.net/Smartv.php?id=AEC
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",华丽台 HD
+http://tvlive.serv00.net/Smartv.php?id=Wlt
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",欢喜台 HD
+http://tvlive.serv00.net/Smartv.php?id=Huahee
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Astro QJ
+http://tvlive.serv00.net/Smartv.php?id=Quanjia
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",AOD
+http://tvlive.serv00.net/Smartv.php?id=AodHD
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",One
+http://tvlive.serv00.net/Smartv.php?id=One_mega
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",爱奇艺 iQiyi
+http://tvlive.serv00.net/Smartv.php?id=Qiyi
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Animal Planet (Eng)
+http://tvlive.serv00.net/Smartv.php?id=AnimalPlanet
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",tvN Movie
+http://tvlive.serv00.net/Smartv.php?id=Tvnmovie
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CNN backup
+http://tvlive.serv00.net/Smartv.php?id=cnn_twn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Classic
+http://tvlive.serv00.net/Smartv.php?id=Celestial2
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CNBC
+http://tvlive.serv00.net/Smartv.php?id=cnbc_twn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Arena
+http://tvlive.serv00.net/Smartv.php?id=Arena
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TLC
+http://tvlive.serv00.net/Smartv.php?id=Tlc
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CNA
+http://tvlive.serv00.net/Smartv.php?id=cna
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BBC World News
+http://tvlive.serv00.net/Smartv.php?id=bbcnews_twn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Foodnetwork Hd
+http://tvlive.serv00.net/Smartv.php?id=Foodnetwork_mega
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",HGTV
+http://tvlive.serv00.net/Smartv.php?id=HGTV
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Goshop
+http://tvlive.serv00.net/Smartv.php?id=Goshop
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Axn HD
+http://tvlive.serv00.net/Smartv.php?id=Axn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Network
+http://tvlive.serv00.net/Smartv.php?id=Paramountnetwork
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Astrol Kplus
+http://tvlive.serv00.net/Smartv.php?id=Kplus
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Actions
+http://tvlive.serv00.net/Smartv.php?id=Rockaction
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Bloomberg News
+http://tvlive.serv00.net/Smartv.php?id=bloomberg_twn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Al-Jazeera
+http://tvlive.serv00.net/Smartv.php?id=aljazeera_twn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Rock Entertainment
+http://tvlive.serv00.net/Smartv.php?id=Rockentertain
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Showcase
+http://tvlive.serv00.net/Smartv.php?id=Showcase_mega
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",RTM Sports HD
+http://tvlive.serv00.net/Smartv.php?id=Rtmsport
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BolaArena 1
+http://tvlive.serv00.net/Smartv.php?id=Bolaarena1
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",HBO_HD
+http://tvlive.serv00.net/Smartv.php?id=hbohd_twn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",HBO_HITS
+http://tvlive.serv00.net/Smartv.php?id=hbohits_twn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Hollywood Movies
+http://tvlive.serv00.net/Smartv.php?id=hollywoodmovies_twn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CINEMAX
+http://tvlive.serv00.net/Smartv.php?id=cinemax_twn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Cinemax
+http://tvlive.serv00.net/Smartv.php?id=Cinemax
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",AXN Taiwan
+http://tvlive.serv00.net/Smartv.php?id=axn_twn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Animax
+http://tvlive.serv00.net/Smartv.php?id=Animax
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Movies Now HD
+http://tvlive.serv00.net/Smartv.php?id=moviesnow_raj
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Star Movies HD
+http://tvlive.serv00.net/Smartv.php?id=starmovies_raj
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",HBO Family
+http://tvlive.serv00.net/Smartv.php?id=Hbofamily
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",HBO Hits HD
+http://tvlive.serv00.net/Smartv.php?id=Hbohits
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",HBO Signature
+http://tvlive.serv00.net/Smartv.php?id=Hbosignature
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Hits
+http://tvlive.serv00.net/Smartv.php?id=Hits
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Warner TV
+http://tvlive.serv00.net/Smartv.php?id=WarnerTV
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Thrill
+http://tvlive.serv00.net/Smartv.php?id=Thrill
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",One
+http://tvlive.serv00.net/Smartv.php?id=One_mega
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Hits Movie
+http://tvlive.serv00.net/Smartv.php?id=Hitsmovie
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Celestial Classic
+http://tvlive.serv00.net/Smartv.php?id=Celestial2
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Celestial Movies HD
+http://tvlive.serv00.net/Smartv.php?id=Celestialindo
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Axn HD
+http://tvlive.serv00.net/Smartv.php?id=Axn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Network
+http://tvlive.serv00.net/Smartv.php?id=Paramountnetwork
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Astrol Kplus
+http://tvlive.serv00.net/Smartv.php?id=Kplus
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Sony Pix HD
+http://tvlive.serv00.net/Smartv.php?id=sonypix_mega
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skynews
+http://tvlive.serv00.net/Smartv.php?id=skynews_antik
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",ABC News
+http://tvlive.serv00.net/Smartv.php?id=abcnews_glo
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CBS HD
+http://tvlive.serv00.net/Smartv.php?id=cbshd_glo
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CBSN HD
+http://tvlive.serv00.net/Smartv.php?id=cbsn_glo
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",France 24
+http://tvlive.serv00.net/Smartv.php?id=france24_twn
+#EXTINF:-1 group-title="斯玛特新马" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",DW (Deutsch)
+http://tvlive.serv00.net/Smartv.php?id=dw_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NHK World
+http://tvlive.serv00.net/Smartv.php?id=nhkworld_japan
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Fox News
+http://tvlive.serv00.net/Smartv.php?id=foxnews_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CGTN
+http://tvlive.serv00.net/Smartv.php?id=CGTN
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CNN International
+http://tvlive.serv00.net/Smartv.php?id=Cnn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CNN backup
+http://tvlive.serv00.net/Smartv.php?id=cnn_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CNBC
+http://tvlive.serv00.net/Smartv.php?id=cnbc_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CNA
+http://tvlive.serv00.net/Smartv.php?id=cna
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BBC World News
+http://tvlive.serv00.net/Smartv.php?id=bbcnews_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BBC World News
+http://tvlive.serv00.net/Smartv.php?id=Bbcnews
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Bloomberg News
+http://tvlive.serv00.net/Smartv.php?id=bloomberg_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Al-Jazeera
+http://tvlive.serv00.net/Smartv.php?id=aljazeera_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Channel 5
+http://tvlive.serv00.net/Smartv.php?id=Channel5HD
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Ch 5 backup
+http://tvlive.serv00.net/Smartv.php?id=Ch5_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Channel 8
+http://tvlive.serv00.net/Smartv.php?id=Channel8HD
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Channel 8 backup
+http://tvlive.serv00.net/Smartv.php?id=Ch8_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Suria
+http://tvlive.serv00.net/Smartv.php?id=Suria
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",backup
+http://tvlive.serv00.net/Smartv.php?id=Suria_backup
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Channel U
+http://tvlive.serv00.net/Smartv.php?id=ChannelU
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Channel U backup
+http://tvlive.serv00.net/Smartv.php?id=ChU_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Vasantham
+http://tvlive.serv00.net/Smartv.php?id=Vasantham
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",backup
+http://tvlive.serv00.net/Smartv.php?id=Vasantham_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CNA backup
+http://tvlive.serv00.net/Smartv.php?id=cna_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Supersports 1
+http://tvlive.serv00.net/Smartv.php?id=Assp1
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Supersports 1 backup
+http://tvlive.serv00.net/Smartv.php?id=go_assp1
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Supersportq 1 backup2
+http://tvlive.serv00.net/Smartv.php?id=Assp1_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Supersports 2
+http://tvlive.serv00.net/Smartv.php?id=Assp2
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Supersports 2 backup
+http://tvlive.serv00.net/Smartv.php?id=go_assp2
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Supersports 3
+http://tvlive.serv00.net/Smartv.php?id=Assp3
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Supersports 3 backup
+http://tvlive.serv00.net/Smartv.php?id=go_assp3
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Supersports 3 backup2
+http://tvlive.serv00.net/Smartv.php?id=Assp3_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Supersports 4
+http://tvlive.serv00.net/Smartv.php?id=Assp4_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Supersports 4 backup
+http://tvlive.serv00.net/Smartv.php?id=go_assp4
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Supersports 5
+http://tvlive.serv00.net/Smartv.php?id=go_assp5
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Bein 2HD
+http://tvlive.serv00.net/Smartv.php?id=Beinhd
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Beinsports HD
+http://tvlive.serv00.net/Smartv.php?id=Besports
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Champion 5EPL
+http://tvlive.serv00.net/Smartv.php?id=Champion5epl
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",WWE
+http://tvlive.serv00.net/Smartv.php?id=Wwe
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Champion 6 EPL
+http://tvlive.serv00.net/Smartv.php?id=Champion6epl
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Fight Sports
+http://tvlive.serv00.net/Smartv.php?id=Fs
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Network
+http://tvlive.serv00.net/Smartv.php?id=ufc_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NBA TV
+http://tvlive.serv00.net/Smartv.php?id=nbatv_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Astro Cricket
+http://tvlive.serv00.net/Smartv.php?id=Acricket_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Astro Golf
+http://tvlive.serv00.net/Smartv.php?id=Agolf
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Sony Ten 1
+http://tvlive.serv00.net/Smartv.php?id=ten1_raj
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Sony Ten 2
+http://tvlive.serv00.net/Smartv.php?id=ten2_raj
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Sony Ten 3
+http://tvlive.serv00.net/Smartv.php?id=ten3_raj
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Sony Six HD
+http://tvlive.serv00.net/Smartv.php?id=sonysix_raj
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",SPOTV 1 HD
+http://tvlive.serv00.net/Smartv.php?id=go_spotv
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",SPO TV 2
+http://tvlive.serv00.net/Smartv.php?id=go_spotv2
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Beinsports 2 HD
+http://http://tvlive.serv00.net/Smartv.php?id=Bein2hd
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports Arena
+http://tvlive.serv00.net/Smartv.php?id=tiankongarena
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports F1
+http://tvlive.serv00.net/Smartv.php?id=tiankongf1
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports Cricket
+http://tvlive.serv00.net/Smartv.php?id=tiankongcricket
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports EPL
+http://tvlive.serv00.net/Smartv.php?id=tiankongepl
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports Football
+http://tvlive.serv00.net/Smartv.php?id=tiankongfootball
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports Golf
+http://tvlive.serv00.net/Smartv.php?id=tiankonggolf
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports Main Event
+http://tvlive.serv00.net/Smartv.php?id=tiankongmain
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports News
+http://tvlive.serv00.net/Smartv.php?id=tiankongnews
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports NFL
+http://tvlive.serv00.net/Smartv.php?id=tiankongnfl
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports Racing
+http://tvlive.serv00.net/Smartv.php?id=tiankongracing
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Arena
+http://tvlive.serv00.net/Smartv.php?id=Arena
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Beins 1 English
+http://tvlive.serv00.net/Smartv.php?id=bein1eng_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Bein3 English
+http://tvlive.serv00.net/Smartv.php?id=bein3eng_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Bein 4 Sports
+http://tvlive.serv00.net/Smartv.php?id=bein4_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Arena 2
+http://tvlive.serv00.net/Smartv.php?id=Arena2
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Bein 5 Sports
+http://tvlive.serv00.net/Smartv.php?id=bein5_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Bein 1 Premium
+http://tvlive.serv00.net/Smartv.php?id=bein1pre_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Bein 3 Premium
+http://tvlive.serv00.net/Smartv.php?id=bein3pre_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",RTM Sports HD
+http://tvlive.serv00.net/Smartv.php?id=Rtmsport
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BolaArena 1
+http://tvlive.serv00.net/Smartv.php?id=Bolaarena1
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Bein 1 Xtra
+http://tvlive.serv00.net/Smartv.php?id=bein1xtra_mega
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Rugby Pass TV
+http://tvlive.serv00.net/Smartv.php?id=Rugbypasstv
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Beinsports Rugby
+http://tvlive.serv00.net/Smartv.php?id=go_beinsrugby
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Thairath
+http://tvlive.serv00.net/Smartv.php?id=thairath_pat
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",tpbs
+http://tvlive.serv00.net/Smartv.php?id=tpbs_pat
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Workpoint
+http://tvlive.serv00.net/Smartv.php?id=workpoint_pat
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Tnn24
+http://tvlive.serv00.net/Smartv.php?id=tnn24_pat
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Nbt
+http://tvlive.serv00.net/Smartv.php?id=nbt_pat
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",New
+http://tvlive.serv00.net/Smartv.php?id=new_pat
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TPTV
+http://tvlive.serv00.net/Smartv.php?id=tptv_pat
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BBC 2
+http://tvlive.serv00.net/Smartv.php?id=bbc2_antik
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CBBC
+http://tvlive.serv00.net/Smartv.php?id=cbbc_antik
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",More4
+http://tvlive.serv00.net/Smartv.php?id=more4_antik
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Freesports
+http://tvlive.serv00.net/Smartv.php?id=freesports_antik
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skynews
+http://tvlive.serv00.net/Smartv.php?id=skynews_antik
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Pick TV
+http://tvlive.serv00.net/Smartv.php?id=picktv_antik
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",itv 1
+http://tvlive.serv00.net/Smartv.php?id=itv1
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",antik itv 2
+http://tvlive.serv00.net/Smartv.php?id=itv2
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",antik Euronews
+http://tvlive.serv00.net/Smartv.php?id=euronews_antik
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Channel 4
+http://tvlive.serv00.net/Smartv.php?id=channel4_antik
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NatGeo HD
+http://tvlive.serv00.net/Smartv.php?id=Natgeo
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CBeebies
+http://tvlive.serv00.net/Smartv.php?id=Cbeebies
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",History
+http://tvlive.serv00.net/Smartv.php?id=History
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Kids TV
+http://tvlive.serv00.net/Smartv.php?id=KidsTV
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",France 24
+http://tvlive.serv00.net/Smartv.php?id=france24_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",DW (Deutsch)
+http://tvlive.serv00.net/Smartv.php?id=dw_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Boomerang
+http://tvlive.serv00.net/Smartv.php?id=Boomerang
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BBC Earth HD
+http://tvlive.serv00.net/Smartv.php?id=bbcearth_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BBC Earth Lifestyle
+http://tvlive.serv00.net/Smartv.php?id=bbclifestyle_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",MTV Live
+http://tvlive.serv00.net/Smartv.php?id=mtvhd_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Star Movies HD
+http://tvlive.serv00.net/Smartv.php?id=starmovies_raj
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",NHK World
+http://tvlive.serv00.net/Smartv.php?id=nhkworld_japan
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",HBO Hits HD
+http://tvlive.serv00.net/Smartv.php?id=Hbohits
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",HBO HD
+http://tvlive.serv00.net/Smartv.php?id=Hbo
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Wild HD
+http://tvlive.serv00.net/Smartv.php?id=Natgeowild
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Warner TV
+http://tvlive.serv00.net/Smartv.php?id=WarnerTV
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Nickelodeon
+http://tvlive.serv00.net/Smartv.php?id=Nickelodeon
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Nick Jr
+http://tvlive.serv00.net/Smartv.php?id=Nickjr
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Thrill
+http://tvlive.serv00.net/Smartv.php?id=Thrill
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CGTN
+http://tvlive.serv00.net/Smartv.php?id=CGTN
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports F1
+http://tvlive.serv00.net/Smartv.php?id=tiankongf1
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports Cricket
+http://tvlive.serv00.net/Smartv.php?id=tiankongcricket
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports EPL
+http://tvlive.serv00.net/Smartv.php?id=tiankongepl
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports Football
+http://tvlive.serv00.net/Smartv.php?id=tiankongfootball
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Skysports Golf
+http://tvlive.serv00.net/Smartv.php?id=tiankonggolf
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Animal Planet (Eng)
+http://tvlive.serv00.net/Smartv.php?id=AnimalPlanet
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",CNBC
+http://http://tvlive.serv00.net/Smartv.php?id=cnbc_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",TLC
+http://tvlive.serv00.net/Smartv.php?id=Tlc
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",BBC World News
+http://tvlive.serv00.net/Smartv.php?id=bbcworldnews_antik
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",HGTV
+http://tvlive.serv00.net/Smartv.php?id=HGTV
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Axn HD
+http://tvlive.serv00.net/Smartv.php?id=Axn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",News
+http://tvlive.serv00.net/Smartv.php?id=bloomberg_twn
+#EXTINF:-1 group-title="斯玛特鬼佬" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",Al-Jazeera
+http://tvlive.serv00.net/Smartv.php?id=aljazeera_twn
 
 
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/sglive/tv/raw/mytv/tb/Astro_WLT.png",丽翡翠台
